@@ -1,0 +1,61 @@
+.navbar-light .logo .navbar-brand 
+{
+	color: #0072B5 !important;
+}
+.icons
+{
+	text-decoration: none;
+	color: darkred;
+	font-size: 25px;
+}
+header
+{	
+	position: relative;
+}
+#background
+{
+	opacity: 0.5;
+	background-image: url("images/logo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background background-attachment: fixed;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+main .kart
+{
+background-color: #003666;
+}
+.iletbackground
+{
+	background-image: url("images/iletisim.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background background-attachment: fixed;
+}
+.iletrow
+{
+opacity: 0.5;
+
+}
+
+.kaydırma
+{
+
+
+
+Width-5px;
+Height-10 px;
+Overflow-y:scroll;
+
+
+}
+.yukseklik
+{
+height: 300px;
+}
