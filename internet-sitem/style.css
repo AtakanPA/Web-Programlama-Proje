@@ -52,10 +52,26 @@ opacity: 0.5;
 Width-5px;
 Height-10 px;
 Overflow-y:scroll;
+height: 650px;
+
+}
+#carouselExampleIndicators
+{
+height: auto;
+width: auto;
+overflow: hidden;
 
 
 }
 .yukseklik
 {
-height: 300px;
+
+height: auto;
+
+
+
+}
+.mycolor
+{
+	color:#0072B5;
 }
