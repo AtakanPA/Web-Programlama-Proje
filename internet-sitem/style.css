@@ -44,17 +44,7 @@ opacity: 0.5;
 
 }
 
-.kaydırma
-{
 
-
-
-Width-5px;
-Height-10 px;
-Overflow-y:scroll;
-height: 650px;
-
-}
 #carouselExampleIndicators
 {
 height: auto;
@@ -84,3 +74,47 @@ color: white;
 
 
 }
+.bckcolor
+{
+	background-color:#003666 ;
+}
+@media only screen and (min-width: 481px) {
+.myslide
+{
+
+max-height: 500px !important;
+opacity: 0.7;
+
+}
+#ytplayer
+{
+	width: 400px;
+	height: 360px;
+
+
+
+
+
+}
+}
+@media only screen and (max-width: 480px) {
+
+.myslide
+{
+max-height: 177px !important;
+opacity: 0.7;
+
+}
+#ytplayer
+{
+	width: 200px;
+	height: 200px;
+
+
+
+
+
+}
+
+
+} 
