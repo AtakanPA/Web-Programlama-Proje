@@ -28,7 +28,7 @@ header
 }
 main .kart
 {
-background-color: #003666;
+	background-color: #003666;
 }
 .iletbackground
 {
@@ -40,23 +40,23 @@ background-color: #003666;
 }
 .iletrow
 {
-opacity: 0.5;
+	opacity: 0.5;
 
 }
 
 
 #carouselExampleIndicators
 {
-height: auto;
-width: auto;
-overflow: hidden;
+	height: auto;
+	width: auto;
+	overflow: hidden;
 
 
 }
 .yukseklik
 {
 
-height: auto;
+	height: auto;
 
 
 
@@ -68,8 +68,8 @@ height: auto;
 .myhobicards
 {
 
-text-decoration: none;
-color: white;
+	text-decoration: none;
+	color: white;
 
 
 
@@ -79,42 +79,84 @@ color: white;
 	background-color:#003666 ;
 }
 @media only screen and (min-width: 481px) {
-.myslide
-{
+	.myslide
+	{
 
-max-height: 500px !important;
-opacity: 0.7;
+		max-height: 500px !important;
+		opacity: 0.7;
 
-}
-#ytplayer
-{
-	width: 400px;
-	height: 360px;
-
-
+	}
+	#ytplayer
+	{
+		width: 400px;
+		height: 360px;
 
 
 
-}
+
+
+	}
 }
 @media only screen and (max-width: 480px) {
 
-.myslide
-{
-max-height: 177px !important;
-opacity: 0.7;
+	.myslide
+	{
+		max-height: 177px !important;
+		opacity: 0.7;
 
-}
-#ytplayer
-{
-	width: 200px;
-	height: 200px;
-
-
+	}
+	#ytplayer
+	{
+		width: 200px;
+		height: 200px;
 
 
 
-}
+
+
+	}
+
 
 
 } 
+
+@media only screen and (min-width: 992px)
+{
+.özgecmisback
+{
+height: 100% !important;
+background-image: url("images/ozgecmis.jpg");
+	
+	background-size: cover;
+	background-position: center;
+	background background-attachment: fixed;
+
+
+
+
+}
+
+
+}
+
+@media only screen and (max-width: 992px)
+{
+
+.özgecmisback
+{
+height: auto !important;
+background-image: url("images/ozgecmis.jpg");
+	
+	background-size: cover;
+	background-position: center;
+	background background-attachment: fixed;
+
+
+
+
+}
+
+
+
+
+}

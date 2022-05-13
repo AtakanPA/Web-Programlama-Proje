@@ -15,7 +15,7 @@
 	<nav class="navbar navbar-expand-md navbar-light bg-light  py-3 mb-0">
 		<div class="container-fluid logo">
 
-			<a href="index.php>" class="navbar-brand">Atakan Paşalı</a>
+			<a href="index.html>" class="navbar-brand">Atakan Paşalı</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
@@ -27,40 +27,33 @@
 				<ul class="navbar-nav">
 
 					<li class="nav-item">
-						<a href="index.php" class="nav-link">AnaSayfa</a>
+						<a href="index.html" class="nav-link">AnaSayfa</a>
 					</li>
 
 
 					<li class="nav-item">
-						<a href="ozgecmis.php" class="nav-link">ÖzGeçmişim</a>
+						<a href="ozgecmis.html" class="nav-link">ÖzGeçmişim</a>
 					</li>
 
 					<li class="nav-item">
-						<a href="ilgialan.php" class="nav-link">İlgi Alanlarım</a>
+						<a href="ilgialan.html" class="nav-link">İlgi Alanlarım</a>
 					</li>
 
 					<li class="nav-item">
-						<a href="şehrim.php" class="nav-link">Şehrim</a>
+						<a href="şehrim.html" class="nav-link">Şehrim</a>
 					</li>
 
 					<li class="nav-item">
 						<a href="iletişim.php" class="nav-link active" aria-current="page">İletişim</a>
 					</li>
 					<li class="nav-item">
-						<a href="miras.php" class="nav-link">Mirasımız</a>
+						<a href="miras.html" class="nav-link">Mirasımız</a>
 					</li>
 				</ul>
 
 			</div>
 
-			<div>
-				<ul class="navbar-nav">
-					<li class="nav-item justify-content-end">
-						<a class="btn btn-success" href="giris.html">Giriş Yap</a>
-
-					</li>
-				</ul>
-			</div>
+		
 
 		</div>
 	</nav>
