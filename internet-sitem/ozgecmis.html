@@ -6,8 +6,8 @@
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<script src="https://kit.fontawesome.com/b6d6eea9d5.js" crossorigin="anonymous"></script>
-
-	<title></title>
+<link rel="icon" type="image/x-icon" href="images/myicon.jpg">
+	<title>Atakan Paşalı'nın Kişisel Web Sitesi</title>
 </head>
 <body class="h-100  d-flex flex-column">
 

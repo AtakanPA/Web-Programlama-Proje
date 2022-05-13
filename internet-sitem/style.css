@@ -92,9 +92,6 @@ main .kart
 		height: 360px;
 
 
-
-
-
 	}
 }
 @media only screen and (max-width: 480px) {
@@ -158,5 +155,19 @@ background-image: url("images/ozgecmis.jpg");
 
 
 
+
+}
+.myfilms
+{
+
+
+
+
+}
+.mykitaps
+{
+
+
+background-color:#003666 !important;
 
 }
